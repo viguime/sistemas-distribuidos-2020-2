@@ -37,7 +37,30 @@ Caracteriza uma camada de software que possibilita a comunicação entre aplica�
 
 exemplos 
 
-CORBA - Common Object Broker Architecture
+- CORBA - Common Object Broker Architecture
 
 Mapear Interface Definition Language (IDL)
 
+- Ginga
+
+um middleware para aplicações de TV digital consiste de máquinas de execução das linguagens oferecidas e bibliotecas de funções, que permitem o desenvolvimento rápido e fácil de aplicações interativas para TV digital
+tornar as aplicações independentes do sistema operacional da plataforma de hardware utilizados. A outra é oferecer um melhor suporte ao desenvolvimento de aplicações
+
+Linguagem: NCL - (Lua e Java) 
+
+- Enterprise Service Bus
+
+Um ESB aplica o conceito de design de sistemas operacionais modernos a serviços independentes executados em redes de computadores distintos e independentes. Como os sistemas operacionais simultâneos, um ESB fornece serviços básicos, além de adoção, tradução e roteamento de solicitações de clientes para serviços de atendimento apropriados.
+
+Encaminhar mensagens entre serviços
+Monitore e controle o roteamento da troca de mensagens entre os serviços
+Resolver a contenção entre os componentes de serviço de comunicação
+Controle de implantação e controle de versão de serviços
+Uso de um líder de serviços redundantes
+Fornece serviços básicos como tratamento de eventos, transformação e mapeamento de dados, enfileiramento e sequenciamento de mensagens e eventos, segurança ou tratamento de exceções, conversão de protocolo e reforço da qualidade adequada do serviço de comunicação.
+
+- SINk
+
+Um middleware que possibilita a sincronização de múltiplos softwares heterogêneos, utilizando apenas interface gráfica, sem a necessidade de acesso ao código fonte ou acesso a todo o controle da plataforma. O SINk ajuda na sincronização de software de caixa fechada da indústria, onde na verdade a única forma de comunicação possível é por meio de interfaces de software.
+
+Linguagem: Java
