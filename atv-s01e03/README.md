@@ -31,4 +31,13 @@ Características destes sistemas:
 * Interface com o usuário
 * Problemas de segurança
 
-##Middleware
+## Middleware
+
+Caracteriza uma camada de software que possibilita a comunicação entre aplicações distribuídas, tem como finalidade diminuir a complexidade e heterogeneidade dos sistemas
+
+exemplos 
+
+CORBA - Common Object Broker Architecture
+
+Mapear Interface Definition Language (IDL)
+
